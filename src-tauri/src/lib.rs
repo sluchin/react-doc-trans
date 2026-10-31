@@ -10,7 +10,7 @@ use doc_translator_core::Site;
 const SITE: Site = Site {
     host: "ja.react.dev",
     alt_host: Some("react.dev"),
-    user_agent: "react-doc-trans/0.1 (+https://github.com/sluchin/react-doc-trans)",
+    user_agent: "react-doc-ja/0.1 (+https://github.com/sluchin/react-doc-ja)",
 };
 
 /// アプリを起動する.

@@ -1,5 +1,5 @@
 [package]
-name = "react-doc-trans"
+name = "react-doc-ja"
 version = "0.1.0"
 description = "Shows the Japanese React documentation"
 authors = ["Tetsuya Higashi"]

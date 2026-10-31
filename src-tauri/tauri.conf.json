@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "React Doc Trans",
+  "productName": "React Doc JA",
   "version": "0.1.0",
   "identifier": "jp.doctranslator.reactdoctrans",
   "build": {
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "React Doc Trans",
+        "title": "React Doc JA",
         "width": 1000,
         "height": 800
       }
