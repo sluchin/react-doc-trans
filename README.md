@@ -7,7 +7,7 @@ React の日本語のドキュメント (https://ja.react.dev/) を表示する�
 
 ## 仕組み
 
-```
+```text
 リンクを開く ─> Rust: ドキュメントのページを取得 (ja.react.dev と react.dev だけ)
             ─> React: 本文を取り出し (リンクと画像は絶対 URL に)
             ─> React: そのまま表示 (リンクは、アプリの中で開く)
